@@ -1,6 +1,5 @@
 import React from 'react';
 import'./Services.css'
-import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import { faDollar } from '@fortawesome/free-solid-svg-icons';
