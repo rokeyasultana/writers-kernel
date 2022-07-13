@@ -11,7 +11,7 @@ const IncludedService = () => {
            <div class="  ">
   <div class="card-body mt-9 ">
       
-  <div className='text-left  mt-2 ml-24  '>
+  <div className='text-left  mt-2 ml-20  '>
            <p className='mt-2'> <FontAwesomeIcon icon={faCircleCheck}  color='blue'  /> Writing articles: for your blogs, your showcases, your e-commerce sites, etc…</p>
             <p className='mt-2'> <FontAwesomeIcon icon={faCircleCheck}  color='blue' /> Product review article writing: for amazon affiliate sites.</p>
             <p className='mt-2'> <FontAwesomeIcon icon={faCircleCheck}  color='blue'  /> E-commerce product description writing services.</p>
