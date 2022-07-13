@@ -20,7 +20,7 @@ const company = () => {
         cssEase: "linear"
       }
       return(
-        <div className=' px-12 mb-36 mt-36 '>
+        <div className=' px-12 mb-9 mt-9 '>
           
           <Slider {...settings}>
             <div>

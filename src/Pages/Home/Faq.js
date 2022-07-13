@@ -3,11 +3,11 @@ import React from 'react';
 const Faq = () => {
     return (
         <div>
-            <h1 className='text-4xl font-bold mt-10 mb-10 '>Frequently Asked Questions</h1>
+            <h1 className='text-4xl text-blue-700  mt-10 mb-10 '>Frequently Asked Questions</h1>
 
            <div className=' ml-14 mr-14 space-y-1.5 mb-10 '>
  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   How do I place an order?
   </div>
   <div class="collapse-content text-left"> 
@@ -16,7 +16,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   When will I have to Pay for the order?
   </div>
   <div class="collapse-content text-left"> 
@@ -25,7 +25,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   What are your payment methods?
   </div>
   <div class="collapse-content text-left"> 
@@ -33,8 +33,8 @@ const Faq = () => {
   </div>
 </div>
 
-            <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box text-left">
-  <div class="collapse-title text-xl font-medium">
+            <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box text-left ">
+  <div class="collapse-title text-xl text-blue-700 font-medium">
   What is the turnaround time (TAT)?
   </div>
   <div class="collapse-content text-left"> 
@@ -43,7 +43,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   Are my keywords and content safe in your hands?
   </div>
   <div class="collapse-content text-left" > 
@@ -52,7 +52,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box ">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   Do you offer free revisions?
   </div>
   <div class="collapse-content text-left"> 
@@ -61,7 +61,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box ">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   What’s your play about privacy?
   </div>
   <div class="collapse-content text-left"> 
@@ -70,7 +70,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   What other free things you will provide with content writing?
   </div>
   <div class="collapse-content text-left"> 
@@ -79,7 +79,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   What information do I have to provide?
   </div>
   <div class="collapse-content text-left"> 
@@ -88,7 +88,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   Do your team members have previous experience?
   </div>
   <div class="collapse-content text-left"> 
@@ -97,7 +97,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   What is the refund policy of Writers Kernel?
   </div>
   <div class="collapse-content text-left"> 
@@ -106,7 +106,7 @@ const Faq = () => {
 </div>
 
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   Which content optimization and plagiarism checker tools do you use?
   </div>
   <div class="collapse-content text-left"> 
@@ -114,7 +114,7 @@ const Faq = () => {
   </div>
 </div>
             <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div class="collapse-title text-xl font-medium text-left">
+  <div class="collapse-title text-xl font-medium text-left text-blue-700">
   Why we the best?
   </div>
   <div class="collapse-content text-left"> 

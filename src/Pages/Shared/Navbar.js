@@ -11,7 +11,7 @@ const Navbar = () => {
       
       return (
           
-  <div className="navbar bg-neutral ">
+  <div className="navbar bg-blue-700 ">
             <div className="navbar-start text-black">
                 <div className="dropdown">
                     <label tabIndex="0" className="btn btn-ghost lg:hidden">
@@ -21,11 +21,11 @@ const Navbar = () => {
                         {menuItems}
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl font-sans hover:font-serif italic"><img style={{height:"40px",color:"white"
-                }}
-                src={logo} alt="logo" />Writers-kernel</a>
+                <a className="btn btn-ghost normal-case text-xl text-white font-sans hover:font-serif italic"><img style={{height:"40px",color:"white"
+               }}
+                src={logo} alt="logo" />Writers Kernel</a>
             </div>
-            <div className="navbar-center hidden lg:flex text-black">
+            <div className="navbar-center hidden lg:flex text-white">
                 <ul className="menu menu-horizontal p-0">
                     {menuItems}
                 </ul>

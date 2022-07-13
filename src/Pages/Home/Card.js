@@ -9,20 +9,20 @@ import { faCircleCheck } from '@fortawesome/free-solid-svg-icons';
 
 const card = () => {
     return (
-        <div>
+        <div >
 
-            <h1 className='text-3xl text-blue-700 font-bold'>Why Choose Our Content Writing Services?</h1>
+            <h1 className='text-4xl text-blue-700  '>Why Choose Our Content Writing Services?</h1>
 
             <div className='justify-center justify-items-center mt-9 mb-9 grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-4'>
 
-            <div class="card w-96 bg-primary text-primary-content">
+            <div class="card w-96 bg-blue-700 text-primary-content">
   <div class="card-body">
     <p><FontAwesomeIcon icon={faCircleCheck}  size="3x"  /></p>
     <h2 class="text-2xl font-bold text-white">Top Quality content</h2>
     
   </div>
 </div>
-            <div class="card w-96 bg-primary text-primary-content">
+            <div class="card w-96 bg-blue-700  text-primary-content">
   <div class="card-body">
   <p><FontAwesomeIcon icon={faDollar
   }  size="3x"  /></p>
@@ -30,7 +30,7 @@ const card = () => {
     
   </div>
 </div>
-            <div class="card w-96 bg-primary text-primary-content">
+            <div class="card w-96 bg-blue-700 text-primary-content">
   <div class="card-body">
 <p>
   <FontAwesomeIcon icon={faChartLine
@@ -40,7 +40,7 @@ const card = () => {
    
   </div>
 </div>
-            <div class="card w-96 bg-primary text-primary-content">
+            <div class="card w-96 bg-blue-700  text-primary-content">
   <div class="card-body">
   <p><FontAwesomeIcon icon={faFilePen
   }  size="3x"  /></p>
@@ -48,7 +48,7 @@ const card = () => {
     
   </div>
 </div>
-            <div class="card w-96 bg-primary text-primary-content">
+            <div class="card w-96 bg-blue-700 text-primary-content">
   <div class="card-body">
   <p><FontAwesomeIcon icon={faUserGroup
   }  size="3x"  /></p>
@@ -56,7 +56,7 @@ const card = () => {
    
   </div>
 </div>
-            <div class="card w-96 bg-primary text-primary-content">
+            <div class="card w-96 bg-blue-700 text-primary-content">
   <div class="card-body">
   <p><FontAwesomeIcon icon={faPeopleCarryBox
   }  size="3x"  /></p>

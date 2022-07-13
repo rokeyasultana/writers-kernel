@@ -5,11 +5,11 @@ const Flag = () => {
     return (
         <div>
            <div>
-            <h1 className='text-3xl font-bold mt-6 mb-5'>We Are Currently Providing Content Writing Services to 16 Countries</h1>
+            <h1 className='text-3xl mt-11  mb-5 text-blue-700'>We Are Currently Providing Content Writing Services to 12 Countries</h1>
             </div> 
 
-            <div id='center'className='justify-center justify-items-center grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 mb-9 mt-9'>
-            <div class="card  ">
+            <div id='center'className='justify-center justify-items-center grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 mb-9 '>
+            <div class="card ">
   <div  class="card-body">
    
     <img style={{height:"100px",width:"150px"}}

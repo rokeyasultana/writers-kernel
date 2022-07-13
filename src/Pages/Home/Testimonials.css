@@ -54,6 +54,8 @@
 
 #hover02 figure {
 	position: relative;
+	margin-bottom: 20px;
+
 }
 #hover02 figure::before {
 	position: absolute;
