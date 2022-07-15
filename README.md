@@ -1,9 +1,3 @@
-
-
-## Live site link: https://resilient-brioche-315741.netlify.app/
-
-
-
 ### Title and Description
 
 Writers Kernel. It's content writing website. 
@@ -26,5 +20,8 @@ Rokeya Sultana
 
 ### Image credit 
 * https://writerskernel.com/
+
+
+## Live site link: https://resilient-brioche-315741.netlify.app/
 
 
