@@ -12,11 +12,13 @@ Rokeya Sultana
 * React router dom
 
 
+
 ### Usage
 
 * Css3
 * Tailwind CSS
 * Component libary daisyUI
+* Font Awsome Icon
 
 ### Image credit 
 
