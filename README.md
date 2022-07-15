@@ -19,7 +19,9 @@ Rokeya Sultana
 * Component libary daisyUI
 
 ### Image credit 
+
 * https://writerskernel.com/
+* https://en.wikipedia.org/
 
 
 ## Live site link: https://resilient-brioche-315741.netlify.app/
